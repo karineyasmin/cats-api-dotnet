@@ -1,0 +1,165 @@
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/appsettings.Development.json
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/appsettings.json
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Cats.Api
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Cats.Api.deps.json
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Cats.Api.runtimeconfig.json
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Cats.Api.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Cats.Api.pdb
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.AssemblyReference.cache
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/staticwebassets.build.json
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/staticwebassets.development.json
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.Cats.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Cats.Api.props
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Cats.Api.props
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Cats.Api.props
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/scopedcss/bundle/Cats.Api.styles.css
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.Up2Date
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/refint/Cats.Api.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.pdb
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/Cats.Api.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/obj/Debug/net8.0/ref/Cats.Api.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/DnsClient.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/MongoDB.Bson.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/MongoDB.Driver.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/SharpCompress.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/Snappier.dll
+/home/ky/Área de Trabalho/Nova pasta/Cats.Api/bin/Debug/net8.0/ZstdSharp.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/appsettings.Development.json
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/appsettings.json
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Cats.Api
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Cats.Api.deps.json
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Cats.Api.runtimeconfig.json
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Cats.Api.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Cats.Api.pdb
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Humanizer.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/MySqlConnector.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.AssemblyReference.cache
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.AssemblyInfo.cs
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/staticwebassets.build.json
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/staticwebassets.development.json
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.Cats.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Cats.Api.props
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Cats.Api.props
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Cats.Api.props
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/scopedcss/bundle/Cats.Api.styles.css
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.Up2Date
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/refint/Cats.Api.dll
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.pdb
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/Cats.Api.genruntimeconfig.cache
+/home/ky/Área de Trabalho/Nova pasta 1/Cats.Api/obj/Debug/net8.0/ref/Cats.Api.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/appsettings.Development.json
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/appsettings.json
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/secrets.json
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Cats.Api
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Cats.Api.deps.json
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Cats.Api.runtimeconfig.json
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Cats.Api.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Cats.Api.pdb
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Humanizer.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.Versioning.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/MySqlConnector.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.AssemblyReference.cache
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.GeneratedMSBuildEditorConfig.editorconfig
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.AssemblyInfoInputs.cache
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.AssemblyInfo.cs
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.CoreCompileInputs.cache
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.MvcApplicationPartsAssemblyInfo.cs
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.MvcApplicationPartsAssemblyInfo.cache
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/staticwebassets.build.json
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/staticwebassets.development.json
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.Cats.Api.Microsoft.AspNetCore.StaticWebAssets.props
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.build.Cats.Api.props
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Cats.Api.props
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Cats.Api.props
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/staticwebassets.pack.json
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/scopedcss/bundle/Cats.Api.styles.css
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.csproj.Up2Date
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/refint/Cats.Api.dll
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.pdb
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/Cats.Api.genruntimeconfig.cache
+/home/ky/Área de Trabalho/atual/Cats.Api/obj/Debug/net8.0/ref/Cats.Api.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\appsettings.json
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\secrets.json
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Cats.Api.exe
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Cats.Api.deps.json
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Cats.Api.runtimeconfig.json
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Cats.Api.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Cats.Api.pdb
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.csproj.AssemblyReference.cache
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.AssemblyInfoInputs.cache
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.AssemblyInfo.cs
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.csproj.CoreCompileInputs.cache
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\staticwebassets\msbuild.Cats.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\staticwebassets\msbuild.build.Cats.Api.props
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cats.Api.props
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cats.Api.props
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\scopedcss\bundle\Cats.Api.styles.css
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.csproj.Up2Date
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\refint\Cats.Api.dll
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.pdb
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\Cats.Api.genruntimeconfig.cache
+C:\Users\kero\Downloads\atual\atual\Cats.Api\obj\Debug\net8.0\ref\Cats.Api.dll
