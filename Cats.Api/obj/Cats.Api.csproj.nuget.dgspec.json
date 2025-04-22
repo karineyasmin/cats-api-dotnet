@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kero\\OneDrive - GFT Technologies SE\\Desktop\\catapi\\Cats.Api\\Cats.Api.csproj": {}
+    "/home/ky/Área de trabalho/catapi-main.tar./catapi-main/Cats.Api/Cats.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kero\\OneDrive - GFT Technologies SE\\Desktop\\catapi\\Cats.Api\\Cats.Api.csproj": {
+    "/home/ky/Área de trabalho/catapi-main.tar./catapi-main/Cats.Api/Cats.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kero\\OneDrive - GFT Technologies SE\\Desktop\\catapi\\Cats.Api\\Cats.Api.csproj",
+        "projectUniqueName": "/home/ky/Área de trabalho/catapi-main.tar./catapi-main/Cats.Api/Cats.Api.csproj",
         "projectName": "Cats.Api",
-        "projectPath": "C:\\Users\\kero\\OneDrive - GFT Technologies SE\\Desktop\\catapi\\Cats.Api\\Cats.Api.csproj",
-        "packagesPath": "C:\\Users\\kero\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kero\\OneDrive - GFT Technologies SE\\Desktop\\catapi\\Cats.Api\\obj\\",
+        "projectPath": "/home/ky/Área de trabalho/catapi-main.tar./catapi-main/Cats.Api/Cats.Api.csproj",
+        "packagesPath": "/home/ky/.nuget/packages/",
+        "outputPath": "/home/ky/Área de trabalho/catapi-main.tar./catapi-main/Cats.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kero\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/ky/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -93,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

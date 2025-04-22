@@ -1,4 +1,3 @@
-// filepath: /home/ky/Área de Trabalho/atual/Cats.Api/Program.cs
 using Cats.Api.Database;
 using Cats.Api.Services;
 using Cats.Api.Repositories;
